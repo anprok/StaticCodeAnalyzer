@@ -1,0 +1,58 @@
+content:
+- Else statement
+- Load module
+- Taking input
+- Class
+- Class instances
+- For loop
+- Loop control statements
+- String formatting
+- Methods
+- Methods and attributes
+- While loop
+- Magic methods
+- Elif statement
+- Basic string methods
+- Escape sequences
+- Split and join
+- Errors
+- Exceptions
+- Built-in exceptions
+- Exception handling
+- Inheritance in Python
+- Multi-line programs
+- User-defined exceptions
+- Assert statement
+- Files in Python
+- Reading files
+- Arguments
+- Identity testing
+- Objects in Python
+- Dictionary
+- Dictionary methods
+- Operations with dictionary
+- Integer arithmetic
+- List comprehension
+- Operations with list
+- Default arguments
+- Lambda functions
+- Iterators
+- Tuple
+- Args
+- Kwargs
+- Slicing
+- Sorting a list
+- Experiments with Python shell
+- Functional decomposition
+- Nested lists
+- Copy of an object
+- Function annotations
+- Unit testing in Python
+- Regexps in Python
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- Custom generators
+- How to read the documentation
+- ast module
